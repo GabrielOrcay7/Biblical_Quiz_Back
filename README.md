@@ -6,8 +6,7 @@ Quiz Biblico Back
 
 #### Para iniciar a execução do projeto é preciso, antes de tudo, instalar as dependências. Para isso basta executar os comandos:
 
-npm install express cors
-\\
+npm install express cors<br/>
 npm install --save-dev nodemon
 
 
