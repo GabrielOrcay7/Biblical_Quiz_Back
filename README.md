@@ -15,4 +15,4 @@ npm install --save-dev nodemon
 
 npm start
 
-Agora, o backend estará rodando em `http://localhost:5000`.<br/>
+Assim o backend estará rodando em `http://localhost:5000`.<br/>
